@@ -3,6 +3,7 @@
 A framework for understanding frame-dependent complexity and systematic algorithmic discovery through frame-space exploration.
 
 **Paper:** [The Contextual Coherence Model: A Frame-Dependent Approach to Persistent Paradoxes](https://doi.org/10.5281/zenodo.18103245)  
+**Extension:** [CCM as Generative Discovery Methodology](https://doi.org/10.5281/zenodo.18108761)  
 **Authors:** Tristan Sims & Samir C.
 
 ---
@@ -89,12 +90,24 @@ This opens new research directions:
 
 ## Citation
 
+**Original Paper (Theory):**
 ```bibtex
 @article{sims2025ccm,
   title={The Contextual Coherence Model: A Frame-Dependent Approach to Persistent Paradoxes},
   author={Sims, Tristan and C., Samir},
   journal={Zenodo},
   doi={10.5281/zenodo.18103245},
+  year={2025}
+}
+```
+
+**Extension Paper (Methodology + Validation):**
+```bibtex
+@article{sims2025ccm_extension,
+  title={The Contextual Coherence Model as Generative Discovery Methodology},
+  author={Sims, Tristan and C., Samir},
+  journal={Zenodo},
+  doi={10.5281/zenodo.18108761},
   year={2025}
 }
 ```
